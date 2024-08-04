@@ -14,8 +14,10 @@ body
     background-size: contain;
  /* background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*Z2XdnvpDrUJX4Ne3xCoEbg.jpeg'); */
  /* background-image: url('https://images.healthshots.com/healthshots/en/uploads/2023/08/05234938/friendship-2.jpg'); */
- background-image: url('https://static.toiimg.com/photo/77257051.cms');
-}
+ /* background-image: url('https://static.toiimg.com/photo/77257051.cms');*/
+   background-image: url('https://images.pexels.com/photos/1140818/pexels-photo-1140818.jpeg?cs=srgb&dl=pexels-mirrographer-1140818.jpg&fm=jpg');
+
+} 
 .iframe
 {
  margin-left: 800px;
@@ -57,9 +59,16 @@ body
     margin-left: 550px;
 }
 .img{
-    height: 10%;
-    width: 50%;
+    height: 0%;
+    width: 40%;
+    float: right;
 }
+.column {
+    float: right;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
 .center {
     display: block;
     margin-left: auto;
