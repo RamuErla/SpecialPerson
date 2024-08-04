@@ -12,8 +12,8 @@
 body
 {
     background-size: contain;
- /* background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*Z2XdnvpDrUJX4Ne3xCoEbg.jpeg'); */
- background-image: url('https://images.healthshots.com/healthshots/en/uploads/2023/08/05234938/friendship-2.jpg');
+  background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*Z2XdnvpDrUJX4Ne3xCoEbg.jpeg'); 
+ /* background-image: url('https://images.healthshots.com/healthshots/en/uploads/2023/08/05234938/friendship-2.jpg'); */
 }
 .iframe
 {
