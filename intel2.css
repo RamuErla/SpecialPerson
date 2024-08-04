@@ -1,0 +1,65 @@
+.img
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 80px;
+    position: relative;
+    /* transform: rotate(180deg); */
+    /* transition-duration: 1s;
+    transition-delay: 1s; */
+}
+body
+{
+    background-size: contain;
+ 
+ background-image: url('https://images.healthshots.com/healthshots/en/uploads/2023/08/05234938/friendship-2.jpg');
+}
+.iframe
+{
+ margin-left: 800px;
+ position: fixed;
+}
+.img1
+{
+    opacity: 0.4;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-bottom: 40%;
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+.img1:hover
+{
+    width: 200px;
+    height: 200px;
+    transform: rotate(360deg);
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+#h1{
+    height: 100px;
+    width: 500px;
+}
+.lorem100{
+    height: 0px;
+    width: 400px;
+}
+.lorem800{
+    width: 300px;
+    margin-left: 550px;
+}
+.img{
+    height: 100%;
+    width: 30%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
