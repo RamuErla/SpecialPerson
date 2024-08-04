@@ -11,7 +11,8 @@
 }
 body
 {
-    background:linear-gradient(to right, orange,white,green);
+    background-size: contain;
+ background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*Z2XdnvpDrUJX4Ne3xCoEbg.jpeg');
 }
 .iframe
 {
@@ -52,8 +53,8 @@ body
     margin-left: 550px;
 }
 .img{
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
 }
 .center {
     display: block;
